@@ -1,0 +1,52 @@
+body {
+  background:white;
+background-color:rgb(0,59,117);
+   
+}
+p {
+  color:white;
+    padding-left: 25px;
+        padding-right: 25px;
+}
+h3 {
+  font-weight: bold;
+    color:white;
+    text-align: center;
+}
+h4 {
+   font-weight:900;
+    color: white;
+}
+a {
+    color:white;
+}
+
+h1 {
+    
+    font-weight:bold;
+    color:white;
+    background-color:white ;
+
+    color: rgb(0,59,117);
+
+}
+ol {
+    color: white;
+      padding-left: 50px;
+    padding-right: 50px;
+
+}
+
+.captions {
+    color:white;
+    font-size: small; 
+   
+}
+
+ .reflections {
+     text-align: center;
+    color: white;
+padding: 20px;
+    
+}
+
